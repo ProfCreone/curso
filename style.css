@@ -1,0 +1,9 @@
+
+section table thead tr th{ 
+ color: #ffff;
+ background-color: blueviolet;   
+}
+
+section, header{
+    background-color:aquamarine;
+}
